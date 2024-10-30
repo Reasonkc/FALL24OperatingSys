@@ -33,4 +33,9 @@ You can always install software onto your Box using the command line. However, C
 
 We can easily add new items to the Install Software screen, so feel free to submit requests.
 
+<<<<<<< HEAD
 [Install Software documentation](https://codio.com/docs/ide/boxes/installsw/box-parts/)
+=======
+[Install Software documentation](https://codio.com/docs/ide/boxes/installsw/box-parts/)# Operating-System
+# FALL24OperatingSys
+>>>>>>> 21060a797c325365cf4eec991ce828c01bcfa31a
